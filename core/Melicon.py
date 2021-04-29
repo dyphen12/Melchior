@@ -5,7 +5,7 @@ from resources.lib import meli
 
 conn = meli.Meli(client_id=280693783442951, client_secret="gdXsD4Tkouusjo7X7cpLTChZ8cHUDQiL")
 
-current_accesstoken = 'APP_USR-280693783442951-122010-feeb5daad792912c0f8cd303755ea883-76816874'
+current_accesstoken = 'ACCESS_TOKEN'
 
 
 
