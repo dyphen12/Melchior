@@ -3,7 +3,7 @@ from tabulate import tabulate
 from resources.lib import meli
 
 
-conn = meli.Meli(client_id=280693783442951, client_secret="gdXsD4Tkouusjo7X7cpLTChZ8cHUDQiL")
+conn = meli.Meli(client_id=1234567890, client_secret="CLIENT_SECRET")
 
 current_accesstoken = 'ACCESS_TOKEN'
 
